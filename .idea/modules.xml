@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test_main.iml" group="addressbook-web-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-test_test.iml" group="addressbook-web-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstProject.iml" filepath="$PROJECT_DIR$/.idea/modules/firstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/firstProject_main.iml" group="firstProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/firstProject_test.iml" group="firstProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-by recorder.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-by recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder_main.iml" group="second-web-selenium-by_recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-by_recorder_test.iml" group="second-web-selenium-by_recorder" />
+    </modules>
+  </component>
+</project>
